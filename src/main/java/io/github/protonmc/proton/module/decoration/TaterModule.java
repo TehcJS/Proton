@@ -10,8 +10,8 @@ import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
 
 /**
- * Module for Taters! :>
- * @author TehcJS, mounderfod
+ * @author TehcJS
+ * @author mounderfod
  */
 @DisabledByDefault
 public class TaterModule extends ProtonModule {
